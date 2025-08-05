@@ -129,7 +129,7 @@ const Home = () => {
 
           <div className="flex gap-4 justify-center md:justify-start">
             <motion.a
-              href="https://drive.google.com/file/d/1eThAFXh88-SNcqv9mkan8izw6AHCNCVe/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1CdCgR7XicHU2vJZenXbzIxY8AU41ROE3/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
